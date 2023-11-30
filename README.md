@@ -35,7 +35,7 @@ utterance.text=document.querySelector("textarea").value;
 window.speechSynthesis.speak(utterance)
 })
 function get(){
-window.open("https://nymoviess.blogspot.com/2023/11/a-width600px-height100px-background.html")
+window.open("https://github.com/Codewithfun20/Convert_text_to_speech/edit/main/README.md")
 }
 </script>
 </html>
